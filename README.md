@@ -1,1 +1,2 @@
 # ConflictGit
+hello amine
